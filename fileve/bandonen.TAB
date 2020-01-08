@@ -1,0 +1,22 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "bandonen.png"
+  Type "RASTER"
+  (106.667323,11.1072908) (1726,215) Label "Pt 1",
+  (106.689993,11.1114046) (2253,118) Label "Pt 2",
+  (106.699438,11.0950585) (2474,505) Label "Pt 3",
+  (106.719371,11.0443669) (2937,1701) Label "Pt 4",
+  (106.707226,10.9967405) (2653,2832) Label "Pt 5"
+  CoordSys Earth Projection 1, 104
+  Units "degree"
+  RasterStyle 4 1
+  RasterStyle 7 0
+  RasterStyle 9 1
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "84a9a8cd-fb2c-43ac-b5e9-88eaae2cb40c"
+end_metadata

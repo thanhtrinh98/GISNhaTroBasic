@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 1
+    tenphuong Char (50) Index 2 ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "bd533a04-58ac-4247-ac3e-2af438cb959b"
+end_metadata
